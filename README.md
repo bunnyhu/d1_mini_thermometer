@@ -8,7 +8,7 @@ It is possible to run from 18650 3.7V Rechargeable Li-ion Battery or anything el
 * Resistor 330, 10K
 * Molex plug
 
-The 330R between rst and D0 is not obligatory, any resistor between 330R-521R is fine - suggested by wemos forum members. It need to wake up reliable from deepsleep.
+The 330R between rst and D0 is not obligatory, any resistor between 330R-520R is fine - suggested by wemos forum members. It need to wake up reliable from deepsleep.
 
 ![](https://github.com/bunnyhu/d1_mini_thermometer/blob/master/wifi_thermometer_schem.png)
 ![](https://github.com/bunnyhu/d1_mini_thermometer/blob/master/wifi_thermometer_bb.png)
