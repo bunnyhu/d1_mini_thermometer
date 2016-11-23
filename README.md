@@ -1,5 +1,5 @@
-# d1_mini_thermometer
-This is a simple wifi thermometer sensor. 
+# D1_mini_thermometer
+This is a simple IOT thermometer and humidity sensor. 
 It is possible to run from 18650 3.7V Rechargeable Li-ion Battery or anything else over 3.5V for a decent long time (it depend how long the sleeping period).
 
 # Parts:
